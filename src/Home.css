@@ -1,0 +1,24 @@
+.home_image{
+    object-fit: contain;
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -20%;
+    display: flex;
+}
+.products{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    
+}
+.Home{
+    background-color: #EAEDED;
+}
+/* .Home{
+    display: flex;
+    max-width: 1500px;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+} */

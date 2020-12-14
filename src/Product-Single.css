@@ -1,0 +1,8 @@
+@import "Products.css";
+
+.single_product{
+    padding: 15px 15px;
+    display: flex;
+    flex-direction: column;
+    height: 272px;
+} 

@@ -1,0 +1,15 @@
+@import "Products.css";
+
+.grid_product{
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    
+} 
+.product_grid{
+    padding: 15px 15px;
+    display: flex;
+    flex-direction: column;
+    height: 272px;
+}
